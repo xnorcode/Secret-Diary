@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  width: 600px;
+  margin: 175px auto;
+  color: white;
+}
+
+#email, #password {
+  width: 500px;
+  margin-bottom: 25px;
+}
+
+.toggle {
+  color: blue;
+  margin-bottom: 25px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.toggle:hover {
+  cursor: pointer;
+}
+
+#login, #toggle-signup {
+  display: none;
+}
+
+.btn {
+  width: 100px;
+}
